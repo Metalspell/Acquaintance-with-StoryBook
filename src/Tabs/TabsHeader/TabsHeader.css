@@ -1,0 +1,21 @@
+.tabs-header-container {
+  width           : 100%;
+  justify-content : space-between;
+  display         : flex;
+  padding         : 10px;
+  box-sizing      : border-box;
+  background-color: #1e1816;
+}
+
+.header-item-container {
+  width: 20%;
+}
+
+.tabs-content-container {
+  flex            : 1;
+  height          : 20vw;
+  width           : 100%;
+  padding         : 10px;
+  box-sizing      : border-box;
+  background-color: #42c987;
+}
