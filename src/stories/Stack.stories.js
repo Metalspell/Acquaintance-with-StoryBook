@@ -4,7 +4,7 @@ export default {
   title: "Components/Stack",
   component: Stack,
   argTypes: {
-    numberOfChildren: { type: "number", defaultValue: 4 },
+    numberOfChildren: { type: "number", defaultValue: 3 },
   },
 }
 
